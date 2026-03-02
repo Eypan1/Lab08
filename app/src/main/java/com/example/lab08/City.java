@@ -1,5 +1,6 @@
 package com.example.lab08;
 
+// City Class, with city and province attributes
 public class City {
     private String city;
     private String province;
